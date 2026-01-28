@@ -1,0 +1,6 @@
+a=input() 
+b=input()
+sum=int(a)/int(b)
+cin=int(a)//int(b)
+print(cin)
+print(sum)
